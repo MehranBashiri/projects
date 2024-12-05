@@ -1,0 +1,26 @@
+[
+    {
+        "mode": "Bus",
+        "speed_kmh": 40,
+        "cost_per_km": 2,
+        "transfer_time_min": 5
+    },
+    {
+        "mode": "Train",
+        "speed_kmh": 80,
+        "cost_per_km": 5,
+        "transfer_time_min": 2
+    },
+    {
+        "mode": "Walking",
+        "speed_kmh": 5,
+        "cost_per_km": 0,
+        "transfer_time_min": 0
+    },
+    {
+        "mode": "Bicycle",
+        "speed_kmh": 15,
+        "cost_per_km": 0,
+        "transfer_time_min": 1
+    }
+]

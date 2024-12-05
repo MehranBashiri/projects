@@ -1,0 +1,18 @@
+🌟 Final Route Summary 🌟
+Total Cost (Units): 60.66
+Total Time (min): 96.09
+Total Distance (km): 33.48
+Number of Mode Changes: 5
+
+From → To,Selected Mode,Travel Time (min),Transfer Time (min),Total Time (min),Cost (Units),Distance (km)
+Tarjan's Home → Bukhan-ro,Bus,11.16,5.00,16.16,14.87,7.44
+Bukhan-ro → Hannam-daero,Bus,8.03,5.00,13.03,10.71,5.35
+Hannam-daero → Seongsu-daero,Bus,7.25,5.00,12.25,9.66,4.83
+Seongsu-daero → Apgujeong-ro,Bus,4.20,5.00,9.20,5.60,2.80
+Apgujeong-ro → Cheongdam-ro,Bicycle,2.20,1.00,3.20,0.00,0.55
+Cheongdam-ro → Sinsa-daero,Bicycle,3.71,1.00,4.71,0.00,0.93
+Sinsa-daero → Gangnam-daero,Bus,3.22,5.00,8.22,4.29,2.14
+Gangnam-daero → Yangjae-daero,Bicycle,6.68,1.00,7.68,0.00,1.67
+Yangjae-daero → Samseong-ro,Bus,5.82,5.00,10.82,7.76,3.88
+Samseong-ro → Jamsil-ro,Bus,5.82,5.00,10.82,7.76,3.88
+Total,,96.09,62.61,96.09,60.66,33.48

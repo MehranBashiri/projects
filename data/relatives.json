@@ -1,0 +1,83 @@
+
+[{ 
+    "Relative_number": "Relative_1",
+    "name": "Gangnam-daero",
+    "district": "Gangnam-gu",
+    "latitude": 37.4979,
+    "longitude": 127.0276,
+    "info": "The 'name' field represents the street name where this relative is located."
+
+},
+{
+    "Relative_number": "Relative_2",
+    "name": "Yangjae-daero",
+    "district": "Seocho-gu",
+    "latitude": 37.4833,
+    "longitude": 127.0322,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_3",
+    "name": "Sinsa-daero",
+    "district": "Gangnam-gu",
+    "latitude": 37.5172,
+    "longitude": 127.0286,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_4",
+    "name": "Apgujeong-ro",
+    "district": "Gangnam-gu",
+    "latitude": 37.5219,
+    "longitude": 127.0411,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_5",
+    "name": "Hannam-daero",
+    "district": "Yongsan-gu",
+    "latitude": 37.5340,
+    "longitude": 127.0026,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_6",
+    "name": "Seongsu-daero",
+    "district": "Seongdong-gu",
+    "latitude": 37.5443,
+    "longitude": 127.0557,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_7",
+    "name": "Cheongdam-ro",
+    "district": "Gangnam-gu",
+    "latitude": 37.5172,
+    "longitude": 127.0391,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_8",
+    "name": "Bukhan-ro",
+    "district": "Jongno-gu",
+    "latitude": 37.5800,
+    "longitude": 126.9844,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_9",
+    "name": "Samseong-ro",
+    "district": "Gangnam-gu",
+    "latitude": 37.5110,
+    "longitude": 127.0590,
+    "info": "The 'name' field represents the street name where this relative is located."
+},
+{
+    "Relative_number": "Relative_10",
+    "name": "Jamsil-ro",
+    "district": "Songpa-gu",
+    "latitude": 37.5133,
+    "longitude": 127.1028,
+    "info": "The 'name' field represents the street name where this relative is located."
+}
+]
